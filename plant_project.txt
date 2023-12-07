@@ -1,0 +1,16 @@
+Plant ID: 8
+-----------------------------------------------------
+Watering Information: Average
+(Average: Every 2-3 days or as needed)
+-----------------------------------------------------
+Initial Light Sensor Value: 788
+the plant is currently in Part Shade
+Sunlight Information: ['Full sun', 'part shade']
+(Full Sun: Above 5000 lux)
+(Part Shade: 200-1000 lux)
+-----------------------------------------------------
+the plant is in the right place
+-----------------------------------------------------
+2023-12-07 16:07:27: The plant was watered
+-----------------------------------------------------
+At 00:00, the plant was watered 1 times.
